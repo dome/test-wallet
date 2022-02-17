@@ -6,8 +6,8 @@ export const SUPPORTED_CHAINS: IChainData[] = [
     short_name: "META",
     chain: "META",
     network: "mainnet",
-    chain_id: 7 ,
-    network_id: 7,
+    chain_id: 17 ,
+    network_id: 17,
     rpc_url: "https://rpc.metachain.asia/",
     native_currency: {
       symbol: "META",
