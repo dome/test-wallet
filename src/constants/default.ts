@@ -3,6 +3,7 @@ export const ENTROPY_KEY = "ENTROPY";
 export const MNEMONIC_KEY = "MNEMONIC";
 
 export const DEFAULT_ACTIVE_INDEX = 0;
+export const META_CHAIN_ID = 7;
 export const MAINNET_CHAIN_ID = 1;
 export const ROPSTEN_CHAIN_ID = 3;
 export const RINKEBY_CHAIN_ID = 4;
